@@ -1,0 +1,1 @@
+INDEX VERSION 1.129+D:\Courses\Sophomore\Java Software Development\Project\.metadata\.plugins\org.eclipse.jdt.core
